@@ -29,3 +29,5 @@ Checkout process (shipping, payment method, etc)
 PayPal / credit card integration
 
 Database seeder (products & users)
+
+go to: https://twofro.herokuapp.com/, to see the application live on production server.
