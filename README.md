@@ -1,6 +1,6 @@
 # TwoFro
 
-A MERN STACK shopping website
+A MERN STACK shopping website (This application is build using, REACT, NODE, EXPRESS AND MONGODB DATABASE)
 
 Features
 
